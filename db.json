@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 12,
+      "name": "Shivanjali Verma"
+    },
+    {
+      "id": 13,
+      "name": "Shivihar"
+    }
+  ],
+  "albums": [
+    {
+      "userId": 13,
+      "title": "Awesome Fresh Chicken",
+      "id": 5
+    },
+    {
+      "userId": 13,
+      "title": "Awesome Wooden Fish",
+      "id": 6
+    },
+    {
+      "userId": 13,
+      "title": "Sleek Metal Mouse",
+      "id": 7
+    },
+    {
+      "userId": 13,
+      "title": "Gorgeous Steel Bike",
+      "id": 8
+    },
+    {
+      "userId": 13,
+      "title": "Unbranded Wooden Chair",
+      "id": 9
+    },
+    {
+      "userId": 13,
+      "title": "Licensed Concrete Computer",
+      "id": 10
+    }
+  ],
+  "photos": []
+}
